@@ -1,2 +1,2 @@
-# MP
-ALgorithimic trading Using deep neural networks
+# ALgorithmic trading Using deep neural networks(PGMP). 
+
