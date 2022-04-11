@@ -1,2 +1,2 @@
 # MP
-SDP
+ALgorithimic trading Using deep neural networks
